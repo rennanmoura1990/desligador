@@ -6,4 +6,3 @@ C:\Users\rennanmoura\Desktop\Projetos\Desligador\Desligador\obj\Debug\Desligador
 C:\Users\rennanmoura\Desktop\Projetos\Desligador\Desligador\obj\Debug\Desligador.csproj.GenerateResource.Cache
 C:\Users\rennanmoura\Desktop\Projetos\Desligador\Desligador\obj\Debug\Desligador.exe
 C:\Users\rennanmoura\Desktop\Projetos\Desligador\Desligador\obj\Debug\Desligador.pdb
-C:\Users\rennanmoura\Desktop\Projetos\Desligador\Desligador\obj\Debug\Desligador.csprojResolveAssemblyReference.cache

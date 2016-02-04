@@ -50,9 +50,14 @@
             // numericUpDown1
             // 
             this.numericUpDown1.Location = new System.Drawing.Point(14, 34);
+            this.numericUpDown1.Maximum = new decimal(new int[] {
+            366,
+            0,
+            0,
+            0});
             this.numericUpDown1.Name = "numericUpDown1";
             this.numericUpDown1.Size = new System.Drawing.Size(46, 20);
-            this.numericUpDown1.TabIndex = 0;
+            this.numericUpDown1.TabIndex = 3;
             // 
             // numericUpDown2
             // 
@@ -64,7 +69,7 @@
             0});
             this.numericUpDown2.Name = "numericUpDown2";
             this.numericUpDown2.Size = new System.Drawing.Size(46, 20);
-            this.numericUpDown2.TabIndex = 1;
+            this.numericUpDown2.TabIndex = 2;
             // 
             // numericUpDown3
             // 
@@ -76,7 +81,7 @@
             0});
             this.numericUpDown3.Name = "numericUpDown3";
             this.numericUpDown3.Size = new System.Drawing.Size(46, 20);
-            this.numericUpDown3.TabIndex = 2;
+            this.numericUpDown3.TabIndex = 1;
             // 
             // numericUpDown4
             // 
@@ -88,7 +93,7 @@
             0});
             this.numericUpDown4.Name = "numericUpDown4";
             this.numericUpDown4.Size = new System.Drawing.Size(46, 20);
-            this.numericUpDown4.TabIndex = 3;
+            this.numericUpDown4.TabIndex = 0;
             // 
             // button1
             // 
@@ -153,7 +158,7 @@
             this.button2.Location = new System.Drawing.Point(14, 119);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(202, 23);
-            this.button2.TabIndex = 9;
+            this.button2.TabIndex = 6;
             this.button2.Text = "Cancelar!";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
@@ -163,7 +168,7 @@
             this.button3.Location = new System.Drawing.Point(14, 90);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(202, 23);
-            this.button3.TabIndex = 10;
+            this.button3.TabIndex = 5;
             this.button3.Text = "Programar Reiniciação";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
