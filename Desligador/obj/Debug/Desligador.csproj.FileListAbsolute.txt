@@ -1,6 +1,16 @@
+<<<<<<< HEAD
 C:\Users\rennanmoura\Desktop\Projetos\Desligador\Desligador\obj\Debug\Desligador.Form1.resources
 C:\Users\rennanmoura\Desktop\Projetos\Desligador\Desligador\obj\Debug\Desligador.Properties.Resources.resources
 C:\Users\rennanmoura\Desktop\Projetos\Desligador\Desligador\obj\Debug\Desligador.csproj.GenerateResource.Cache
 C:\Users\rennanmoura\Desktop\Projetos\Desligador\Desligador\obj\Debug\Desligador.TrustInfo.xml
+=======
+C:\Users\rennanmoura\Desktop\Projetos\Desligador\Desligador\bin\Debug\Desligador.exe.config
+C:\Users\rennanmoura\Desktop\Projetos\Desligador\Desligador\bin\Debug\Desligador.exe
+C:\Users\rennanmoura\Desktop\Projetos\Desligador\Desligador\bin\Debug\Desligador.pdb
+C:\Users\rennanmoura\Desktop\Projetos\Desligador\Desligador\obj\Debug\Desligador.csprojResolveAssemblyReference.cache
+C:\Users\rennanmoura\Desktop\Projetos\Desligador\Desligador\obj\Debug\Desligador.Form1.resources
+C:\Users\rennanmoura\Desktop\Projetos\Desligador\Desligador\obj\Debug\Desligador.Properties.Resources.resources
+C:\Users\rennanmoura\Desktop\Projetos\Desligador\Desligador\obj\Debug\Desligador.csproj.GenerateResource.Cache
+>>>>>>> 979f8870325877ac6763e1403b3634423ca23fb5
 C:\Users\rennanmoura\Desktop\Projetos\Desligador\Desligador\obj\Debug\Desligador.exe
 C:\Users\rennanmoura\Desktop\Projetos\Desligador\Desligador\obj\Debug\Desligador.pdb
